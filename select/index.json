@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Symphony",
+  "base_artist": "Clean Bandit",
+  "createdAt": "2026-02-06T05:40:07.271295Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Symphony (feat. Zara Larsson)",
+      "artist": "Clean Bandit feat. Zara Larsson",
+      "has_synced": true,
+      "path": "select/01_Symphony_(feat._Zara_Larsson)_Clean_Bandit_feat._Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Symphony (feat. Zara Larsson)",
+      "artist": "Clean Bandit",
+      "has_synced": true,
+      "path": "select/02_Symphony_(feat._Zara_Larsson)_Clean_Bandit.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Symphony (feat. Chris Stapleton)",
+      "artist": "Joy Oladokun feat. Chris Stapleton",
+      "has_synced": true,
+      "path": "select/03_Sweet_Symphony_(feat._Chris_Stapleton)_Joy_Oladokun_feat._Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Symphony",
+      "artist": "Joy Oladokun",
+      "has_synced": true,
+      "path": "select/04_Sweet_Symphony_Joy_Oladokun.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Modern Day City Symphony",
+      "artist": "Looptroop Rockers",
+      "has_synced": true,
+      "path": "select/05_A_Modern_Day_City_Symphony_Looptroop_Rockers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Mondern Day City Symphony",
+      "artist": "Looptroop",
+      "has_synced": true,
+      "path": "select/06_A_Mondern_Day_City_Symphony_Looptroop.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Exogenesis: Symphony, Pt. 1 (Overture)",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/07_Exogenesis__Symphony,_Pt._1_(Overture)_Muse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Exogenesis: Symphony Part I (Overture)",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/08_Exogenesis__Symphony_Part_I_(Overture)_Muse.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Exogenesis: Symphony Part 2 [Cross-pollination]",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/09_Exogenesis__Symphony_Part_2_[Cross-pollination]_Muse.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Exogenesis: Symphony Part II (Cross Pollination)",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/10_Exogenesis__Symphony_Part_II_(Cross_Pollination)_Muse.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Exogenesis: Symphony Part 1 [Overture]",
+      "artist": "Muse",
+      "has_synced": false,
+      "path": "select/11_Exogenesis__Symphony_Part_1_[Overture]_Muse.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Luskus Delph (with the Edmonton Symphony Orchestra) - Live from the Jubilee Auditorium, Canada",
+      "artist": "Procol Harum",
+      "has_synced": true,
+      "path": "select/12_Luskus_Delph_(with_the_Edmonton_Symphony_Orchestra)_-_Live_from_the_Jubilee_Audi_Procol_Harum.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Luskus Delph (live with The Edmonton Symphony Orchestra)",
+      "artist": "Procol Harum",
+      "has_synced": true,
+      "path": "select/13_Luskus_Delph_(live_with_The_Edmonton_Symphony_Orchestra)_Procol_Harum.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony (James Lavelle Remix)",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/14_Bitter_Sweet_Symphony_(James_Lavelle_Remix)_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony (James Lavelle Remix)",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/15_Bitter_Sweet_Symphony_(James_Lavelle_Remix)_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony - Extended Version",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/16_Bitter_Sweet_Symphony_-_Extended_Version_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony [Extended Version]",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/17_Bitter_Sweet_Symphony_[Extended_Version]_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/18_Bitter_Sweet_Symphony_The_Verve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Symphony",
+      "artist": "Clean Bandit",
+      "has_synced": false,
+      "path": "select/pl_01_Symphony_Clean_Bandit.txt"
+    }
+  ]
+}
